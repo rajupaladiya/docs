@@ -27,7 +27,11 @@
  },
   "tabs": [
     {
-      "name": "API",
+      "name": "Plugins",
+      "url": "api-reference"
+    },
+    {
+      "name": "Themes",
       "url": "api-reference"
     },
     {
