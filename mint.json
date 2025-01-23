@@ -17,7 +17,7 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "Contact Us",
       "url": "mailto:hi@mintlify.com"
     }
   ],
@@ -32,7 +32,7 @@
     },
     {
       "name": "Plugins",
-      "url": "Plugins"
+      "url": "README"
     }
   ],
   "anchors": [
