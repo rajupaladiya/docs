@@ -27,12 +27,12 @@
  },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "API",
       "url": "api-reference"
     },
     {
       "name": "Plugins",
-      "url": "README"
+      "url": "api-reference"
     }
   ],
   "anchors": [
